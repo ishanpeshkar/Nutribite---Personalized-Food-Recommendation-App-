@@ -1,0 +1,145 @@
+﻿serial no.,Food Name,Restaurant,Address,Calories,Cost,Not For people having:
+1,Butter Chicken,Moti Mahal Delux,"Daryaganj, Old Delhi",420,339,"Lactose Intolerance, Dairy Allergies, High Cholesterol"
+2,Butter Chicken,Havemore,Pandara Road Market,408,329,"Lactose Intolerance, Dairy Allergies, High Cholesterol"
+3,Butter Chicken,Gulati Restaurant,Pandara Road Market,432,350,"Lactose Intolerance, Dairy Allergies, High Cholesterol"
+4,Chole Bhature,Sita Ram Diwan Chand,Paharganj,445,100,"Gluten Intolerance, Celiac Disease"
+5,Chole Bhature,Chache Di Hatti,Kamla Nagar,416,120,"Gluten Intolerance, Celiac Disease"
+6,Chole Bhature,Baba Nagpal Corner,Lajpat Nagar,430,110,"Gluten Intolerance, Celiac Disease"
+7,Paranthas,Pt. Gaya Prasad Shiv Charan,"Paranthe Wali Gali, Chandni Chowk",250,50,"Diabetes, Maintaining Weight"
+8,Paranthas,Moolchand Parathe Wala,Lajpat Nagar,277,60,"Diabetes, Maintaining Weight"
+9,Paranthas,Kake Di Hatti,Chandni Chowk,263,55,"Diabetes, Maintaining Weight"
+10,Biryani,Al Jawahar,"Jama Masjid, Old Delhi",322,270,"Hypertension, High Blood Pressure"
+11,Biryani,Biryani By Kilo,Various locations,334,290,"Hypertension, High Blood Pressure"
+12,Biryani,Dum Pukht,"ITC Maurya, Chanakyapuri",318,300,"Hypertension, High Blood Pressure"
+13,Veg kebabs,Karim’s,"Jama Masjid, Old Delhi",302,170,Soy Allergies
+14,Veg kebabs,Al Kakori,Alaknanda,295,150,Soy Allergies
+15,Veg kebabs,Rajinder Da Dhaba,Safdarjung,310,180,Soy Allergies
+16,Momos,Dolma Aunty Momos,Lajpat Nagar Market,390,80,Gluten Intolerance
+17,Momos,Hunger Strike,"Amar Colony Market, Lajpat Nagar",372,100,Gluten Intolerance
+18,Momos,Wow! Momo,Multiple locations,350,60,Gluten Intolerance
+19,Ceaser salad,Bangla Sweet House,Gole Market,90,200,"Lactose Intolerance, Dairy Allergies"
+20,Ceaser salad,Leafe cafe,Kamla Nagar,110,220,"Lactose Intolerance, Dairy Allergies"
+21,Ceaser salad,The Turkish cafe,Greater Kailash,99,211,"Lactose Intolerance, Dairy Allergies"
+22,Aloo Tikki,Natraj Dahi Bhalle Wala,Chandni Chowk,170,60,Diabetes
+23,Aloo Tikki,Bittoo Tikki Wala (BTW),Multiple locations,149,65,Diabetes
+24,Aloo Tikki,Vaishnav Chat Bhandar,Kamla Nagar,157,80,Diabetes
+25,Dal Makhani,Bukhara,"ITC Maurya, Chanakyapuri",384,200,"Lactose, High Cholesterol, Glutten or Celiac Disease"
+26,Dal Makhani,Punjabi By Nature,Multiple locations,361,217,"Lactose, High Cholesterol, Glutten or Celiac Disease"
+27,Dal Makhani,Dhaba - Estd 1986 Delhi,Various locations,377,190,"Lactose, High Cholesterol, Glutten or Celiac Disease"
+28,Tofu Salad,Daily Sushi,Kamla Nagar,89,339,Soy Allergies
+29,Tofu Salad,korea house,Kamla Nagar,90,320,Soy Allergies
+30,Tofu Salad,Tofu house,Kamla Nagar,94,299,Soy Allergies
+31,Multigrain millets oats,keto cafe,"Jama Masjid, Old Delhi",112,150,Gluten Intolerance
+32,Multigrain millets oats,Tofu house,"Jama Masjid, Old Delhi",107,132,Gluten Intolerance
+33,Multigrain millets oats,Soul cafe,"ITC Maurya, Chanakyapuri",110,189,Gluten Intolerance
+34,Kulfi,Roshan Di Kulfi,Karol Bagh,206,39,"Lactose Intolerance, Dairy Allergies"
+35,Kulfi,Kuremal Mohan Lal Kulfi Wale,Chawri Bazar,188,49,"Lactose Intolerance, Dairy Allergies"
+36,Kulfi,Giani's Di Hatti,Chandni Chowk,216,50,"Lactose Intolerance, Dairy Allergies"
+37,Pav Bhaji,New Arjun Bombay Pav Bhaji,Model Town,382,140,"High Cholesterol, Gluten Sensitivity or Celiac Disease"
+38,Pav Bhaji,Sindhi Corner,Ashok Vihar,366,120,"High Cholesterol, Gluten Sensitivity or Celiac Disease"
+39,Pav Bhaji,Kumar Pav Bhaji & Chaat,Rajouri Garden,347,135,"High Cholesterol, Gluten Sensitivity or Celiac Disease"
+40,Rajma Chawal,Raju Chur Chur Naan,Multiple Locations,400,199,"Irritable Bowel Syndrome(IBS), Gastrointestinal Issues"
+41,Rajma Chawal,Sita Ram Diwan Chand,Paharganj,387,189,"Irritable Bowel Syndrome(IBS), Gastrointestinal Issues"
+42,Rajma Chawal,Prem Di Hatti,Rajouri Garden,378,200,"Irritable Bowel Syndrome(IBS), Gastrointestinal Issues"
+43,Jalebi,Old Famous Jalebi Wala,Chandni Chowk,197,89,Diabetes
+44,Jalebi,Bangla Sweet House,Gole Market,176,100,Diabetes
+45,Jalebi,Jaleba,Chawri Bazar,184,101,Diabetes
+46,Samosa,Gupta Ji Samose Wale,Kamla Nagar,552,39,"Gluten Intolerance, Celiac Disease"
+47,Samosa,Annapurna Sweets,CR Park,516,50,"Gluten Intolerance, Celiac Disease"
+48,Samosa,Chaina Ram Sindhi Confectioners,Chandni Chowk,495,60,"Gluten Intolerance, Celiac Disease"
+49,Dosa,Saravana Bhavan,Connaught Place,147,120,Diabetes
+50,Dosa,Naivedyam,Hauz Khas Village,136,156,Diabetes
+51,Dosa,Sagar Ratna,Multiple Locations,127,134,Diabetes
+52,Gajar Ka Halwa,Giani di Hatti,Chandni Chowk,383,80,Diabetes
+53,Gajar Ka Halwa,Bikanervala,Multiple Locations,362,99,Diabetes
+54,Gajar Ka Halwa,Haldiram's,Multiple Locations,374,110,Diabetes
+55,Paneer Tikka,Pandara Road Restaurants,Pandara Road,382,223,"Lactose Intolerance, Dairy Allergies"
+56,Paneer Tikka,Rajinder Da Dhaba,Safdarjung,350,230,"Lactose Intolerance, Dairy Allergies"
+57,Paneer Tikka,Punjabi By Nature,Multiple Locations,366,199,"Lactose Intolerance, Dairy Allergies"
+58,Malai Kofta,Punjabi By Nature,Multiple Locations,456,240,"Lactose Intolerance, Dairy Allergies"
+59,Malai Kofta,Kake Di Hatti,Chandni Chowk,429,236,"Lactose Intolerance, Dairy Allergies"
+60,Malai Kofta,Saravana Bhavan,Connaught Place,435,220,"Lactose Intolerance, Dairy Allergies"
+61,Tandoori Chicken,Moti Mahal Delux,"Daryaganj, Old Delhi",900,339,High Cholesterol
+62,Tandoori Chicken,Pindi,Pandara Road,953,299,High Cholesterol
+63,Tandoori Chicken,Rajinder Da Dhaba,Safdarjung,922,280,High Cholesterol
+64,Sprout salad,havemore cafe,Karol Bagh,150,85,"Gastrointestinal Isuues, Allergies,Thyroid"
+65,Sprout salad,Bitwiser house,Pandara Road,162,99,"Gastrointestinal Isuues, Allergies,Thyroid"
+66,Sprout salad,Jain cafe,Karol Bagh,145,100,"Gastrointestinal Isuues, Allergies,Thyroid"
+67,Chicken Tikka,Rajinder Da Dhaba,Safdarjung,666,180,High Cholesterol
+68,Chicken Tikka,Punjabi By Nature,Multiple Locations,696,150,High Cholesterol
+69,Chicken Tikka,Havemore,Pandara Road Market,701,189,High Cholesterol
+70,Gulab Jamun,Gulati Restaurant,Pandara Road,250,85,Diabetes
+71,Gulab Jamun,Bikanervala,Multiple Locations,241,90,Diabetes
+72,Gulab Jamun,Haldiram's,Multiple Locations,256,120,Diabetes
+73,Lassi,Amritsari Lassi Wala,Chandni Chowk,202,120,"Lactose Intolerance, Dairy Allergies"
+74,Lassi,Keventers,Multiple Locations,196,99,"Lactose Intolerance, Dairy Allergies"
+75,Lassi,Bikanervala,Multiple Locations,205,101,"Lactose Intolerance, Dairy Allergies"
+76,Aloo Paratha,Moolchand Parathe Wala,Lajpat Nagar,406,186,Diabetes
+77,Aloo Paratha,Paranthe Wali Gali,Chandni Chowk,399,160,Diabetes
+78,Aloo Paratha,Giani's Di Hatti,Chandni Chowk,410,156,Diabetes
+79,Blueberry smoothie,montilier,Kamla Nagar,100,156,"Diabetes, Kidney Stones, Maintaining Weight"
+80,Blueberry smoothie,Chai Point,Multiple Locations,96,178,"Diabetes, Kidney Stones, Maintaining Weight"
+81,Blueberry smoothie,Tea Halt,Okhla,102,136,"Diabetes, Kidney Stones, Maintaining Weight"
+82,Paneer Butter Masala,Punjabi By Nature,Multiple Locations,522,189,"Lactose Intolerance, Dairy Allergies"
+83,Paneer Butter Masala,Butter Paneer,Daryaganj,517,188,"Lactose Intolerance, Dairy Allergies"
+84,Paneer Butter Masala,Dhaba - Estd 1986 Delhi,Various locations,532,200,"Lactose Intolerance, Dairy Allergies"
+85,Ragi oats,Udaipur cafe,"Jama Masjid, Old Delhi",101,132,Gluten Intolerance
+86,Ragi oats,ITC Maurya,"Jama Masjid, Old Delhi",123,142,Gluten Intolerance
+87,Ragi oats,kilo cafe,Multiple Locations,117,120,Gluten Intolerance
+88, Fruit salade,Keventers,Daryaganj,80,120,Diabetes
+89, Fruit salade,Udaipur cafe,"Jama Masjid, Old Delhi",78,129,Diabetes
+90, Fruit salade,Soul cafe,"Jama Masjid, Old Delhi",87,130,Diabetes
+91,Vegetable Thali,Shree Bhawan,Karol Bagh,879,146,"Irritable Bowel Syndrome(IBS), Gastrointestinal Issues"
+92,Vegetable Thali,Haldiram's,Multiple Locations,909,150,"Irritable Bowel Syndrome(IBS), Gastrointestinal Issues"
+93,Vegetable Thali,Bikanervala,Multiple Locations,899,133,"Irritable Bowel Syndrome(IBS), Gastrointestinal Issues"
+94,Chia seed pudding,1 8 c0mune,"Jama Masjid, Old Delhi",90,85,"Gastrointestinal Isuues, Allergies"
+95,Chia seed pudding,# cafe,"Jama Masjid, Old Delhi",98,99,"Gastrointestinal Isuues, Allergies"
+96,Chia seed pudding,kilo cafe,Lajpat Nagar,100,110,"Gastrointestinal Isuues, Allergies"
+97,Mango Lassi,Amritsari Lassi Wala,Chandni Chowk,212,110,"Lactose Intolerance, Dairy Allergies"
+98,Mango Lassi,Keventers,Multiple Locations,198,99,"Lactose Intolerance, Dairy Allergies"
+99,Mango Lassi,Bikanervala,Multiple Locations,201,120,"Lactose Intolerance, Dairy Allergies"
+100,Palak Paneer,Punjabi By Nature,Multiple Locations,340,165,Kidney Stones
+101,Palak Paneer,Dhaba - Estd 1986 Delhi,Various locations,322,183,Kidney Stones
+102,Palak Paneer,Saravana Bhavan,Connaught Place,319,170,Kidney Stones
+103,Baked outmeal,Saravana Bhavan,Multiple Locations,130,165,Gluten Intolerance
+104,Baked outmeal,Keventers,Chandni Chowk,133,186,Gluten Intolerance
+105,Baked outmeal,Udaipur cafe,Greater Kailash,140,150,Gluten Intolerance
+106,Papdi Chaat,Shree Balaji Chaat Bhandar,Chandni Chowk,329,60,Gluten Intolerance
+107,Papdi Chaat,Vaishnav Chat Bhandar,Kamla Nagar,322,39,Gluten Intolerance
+108,Papdi Chaat,Bittu Tikki Wala,Multiple Locations,312,50,Gluten Intolerance
+109,Kachori with Aloo Sabzi,Jung Bahadur Kachori Wala,Chandni Chowk,525,89,Diabetes
+110,Kachori with Aloo Sabzi,Hanuman Mandir Kachori Wala,Connaught Place,517,100,Diabetes
+111,Kachori with Aloo Sabzi,Mishra Kachori Wala,Old Delhi,506,110,Diabetes
+112,Paneer Kulcha,Kake Di Hatti,"Fatehpuri, Chandni Chowk",587,156,"Lactose Intolerance, Dairy Allergies"
+113,Paneer Kulcha,Amritsari Lassi Wala,Chandni Chowk,556,179,"Lactose Intolerance, Dairy Allergies"
+114,Paneer Kulcha,Paranthe Wali Gali,Chandni Chowk,550,190,"Lactose Intolerance, Dairy Allergies"
+115,Paneer Kulcha,Kake Di Hatti,"Fatehpuri, Chandni Chowk",541,210,"Lactose Intolerance, Dairy Allergies"
+116,Paneer Kulcha,Amritsari Lassi Wala,Chandni Chowk,537,200,"Lactose Intolerance, Dairy Allergies"
+117,Paneer Kulcha,Paranthe Wali Gali,Chandni Chowk,555,220,"Lactose Intolerance, Dairy Allergies"
+118,Baked avocado eggs,Gulati Restaurant,Pandara Road,160,130,Egg Allergies
+119,Baked avocado eggs,Healthi By Nature,Multiple Locations,157,148,Egg Allergies
+120,Baked avocado eggs,Swagath Restaurant & Bar,Defence Colony,167,150,Egg Allergies
+121,Shahi Paneer,Pind Balluchi,Multiple Locations,525,220,"Lactose Intolerance, Dairy Allergies"
+122,Shahi Paneer,Punjabi By Nature,Multiple Locations,558,230,"Lactose Intolerance, Dairy Allergies"
+123,Shahi Paneer,Dhaba - Estd 1986 Delhi,Various Locations,546,245,"Lactose Intolerance, Dairy Allergies"
+124,Banana oatmeal,Ketan cafe,Lajpat Nagar,123,184,Gluten Intolerance
+125,Banana oatmeal,pautli,Chandni Chowk,120,160,Gluten Intolerance
+126,Banana oatmeal,Oatlim,"Fatehpuri, Chandni Chowk",127,150,Gluten Intolerance
+127,Sweet Potato hash,Jain cafe,Greater Kailash,188,130,Diabetes
+128,Sweet Potato hash,leo bar,Kamla Nagar,190,148,Diabetes
+129,Sweet Potato hash,Omniyer,Chandni Chowk,178,150,Diabetes
+130,Rabri Faluda,Giani's Di Hatti,Chandni Chowk,295,120,Diabetes
+131,Rabri Faluda,Roshan Di Kulfi,Karol Bagh,289,156,Diabetes
+132,Rabri Faluda,Baba Kharak Singh Marg,Connaught Place,278,110,Diabetes
+133,Veg Hakka Noodles,Chowringhee,Laxmi Nagar,284,140,Gluten Intolerance
+134,Veg Hakka Noodles,Berco's,Multiple Locations,290,150,Gluten Intolerance
+135,Veg Hakka Noodles,Yo! China,Multiple Locations,288,142,Gluten Intolerance
+136,Soya Chaap,Veg Gulati,Pandara Road,651,183,Soy Allergies
+137,Soya Chaap,Sardar Ji Malai Chaap Wale,Subhash Nagar,666,189,Soy Allergies
+138,Soya Chaap,Hunger Strike,Amar Colony,646,200,Soy Allergies
+139,Avocado toast,Pint cafe,Jama Masjid,198,115,Avocado Allergies
+140,Avocado toast,Leep cafe & bar,Safdarjung,200,131,Avocado Allergies
+141,Avocado toast,Paulti,Pandara Road,189,142,Avocado Allergies
+142,Berry smoothie bowl,Pint cafe,"Jama Masjid, Old Delhi",145,187,Diabetes
+143,Berry smoothie bowl,Irani cafe,"Jama Masjid, Old Delhi",150,190,Diabetes
+144,Berry smoothie bowl,Jain cafe,New Friends Colony,147,199,Diabetes
